@@ -1,0 +1,37 @@
+
+ .headline {
+    color: orange; 
+    font-size: 4rem;
+    border: 9px ridge rgb(60, 58, 90);
+    text-align: center;
+ }
+.h2 {
+   color: blue;
+   font-size: 2rem;
+   border: 3px groove rgb(12, 0, 12);
+   text-align: center;
+}
+ .bigfont {
+    font-size: 4rem;
+    font-family:'Courier New', Courier, monospace ;
+ }
+
+ .para {
+    color: aqua;
+    font-size: 4rem;
+    text-align: center;
+ }
+
+ .border {
+    border: 2px solid; 
+ }
+
+ .font-roboto {
+    font-family: 'Roboto', sans-serif;
+    font-size: 4rem;
+}
+.footer {
+   color: black;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+   'Lucida Sans Unicode', Geneva;
+}
